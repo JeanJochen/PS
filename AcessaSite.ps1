@@ -1,0 +1,1 @@
+﻿Start chrome ("https://app.pontomaisweb.com.br/#/meu_ponto/registro_de_ponto")
